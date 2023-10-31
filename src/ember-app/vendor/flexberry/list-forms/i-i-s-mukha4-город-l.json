@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mukha4-город-e",
+  "editForm": "i-i-s-mukha4-город-e",
+  "external": false,
+  "caption": "Город",
+  "name": "IISMukha4ГородL",
+  "className": "ГородL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mukha4-город",
+      "modelProjection": "ГородL"
+    }
+  ]
+}

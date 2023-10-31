@@ -1,0 +1,1 @@
+docker-compose -p mukha4 up -d

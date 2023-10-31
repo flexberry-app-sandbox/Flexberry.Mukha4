@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mukha4-метеостанция-e",
+  "editForm": "i-i-s-mukha4-метеостанция-e",
+  "external": false,
+  "caption": "Метеостанция",
+  "name": "IISMukha4МетеостанцияL",
+  "className": "МетеостанцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mukha4-метеостанция",
+      "modelProjection": "МетеостанцияL"
+    }
+  ]
+}

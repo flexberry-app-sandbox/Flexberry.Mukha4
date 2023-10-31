@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mukha4-здание-e",
+  "editForm": "i-i-s-mukha4-здание-e",
+  "external": false,
+  "caption": "Здание",
+  "name": "IISMukha4ЗданиеL",
+  "className": "ЗданиеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mukha4-здание",
+      "modelProjection": "ЗданиеL"
+    }
+  ]
+}

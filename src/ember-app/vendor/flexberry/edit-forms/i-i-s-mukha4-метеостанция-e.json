@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Метеостанция",
+  "name": "IISMukha4МетеостанцияE",
+  "className": "МетеостанцияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mukha4-метеостанция",
+      "modelProjection": "МетеостанцияE"
+    }
+  ]
+}

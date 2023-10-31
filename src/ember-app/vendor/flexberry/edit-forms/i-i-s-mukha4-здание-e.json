@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Здание",
+  "name": "IISMukha4ЗданиеE",
+  "className": "ЗданиеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mukha4-здание",
+      "modelProjection": "ЗданиеE"
+    }
+  ]
+}

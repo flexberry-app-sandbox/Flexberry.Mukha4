@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Mukha4",
+  "applicationTitle": "Mukha4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "mukha4",
+      "caption": "Mukha4",
+      "title": "Mukha4",
+      "children": [
+        {
+          "link": "i-i-s-mukha4-метеостанция-l",
+          "menuName": null,
+          "caption": "Метеостанция",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-mukha4-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-mukha4-здание-l",
+          "menuName": null,
+          "caption": "Здание",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
